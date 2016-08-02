@@ -1,0 +1,14 @@
+layout_spectrum: 0.6869054450653493
+typography_spectrum: 0.122487687272951
+color:
+  brandStrength: 0.5448574838228524
+  lightness: 0.5995213384740055
+  saturation: 0.45623033214360476
+  rhythmicContrast: 0.8572241205256432
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: BBB
